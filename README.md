@@ -13,7 +13,7 @@
 
 <div align="center"><h1>🔗 Connect with me</h1>
 <p>
-<a href="https://www.linkedin.com/in/eng-ahmed-mamdoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eng-ahmed-mamdoh" height="44" width="44" /></a>  <-------------> 
+<a href="https://www.linkedin.com/in/eng-ahmed-mamdoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eng-ahmed-mamdoh" height="44" width="44" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/ahmed_mamdoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_mamdoh" height="66" width="66" /></a>
       <h3>✉For Contact</h3>
     <h4>ahmedmamdoh.cs@gmail.com</h4>
