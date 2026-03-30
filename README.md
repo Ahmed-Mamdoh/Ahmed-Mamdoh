@@ -6,7 +6,7 @@
   <h1 align="center">📜 Skills & Tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,npm,git,github,netlify,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite,npm,git,github,netlify,vscode" />
   </a>
 </p>
 </div>
