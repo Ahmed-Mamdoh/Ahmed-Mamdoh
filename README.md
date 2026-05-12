@@ -1,30 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed Mamdoh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building modern web interfaces&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ahmed Mamdoh+👋;Frontend Developer;Building modern web interfaces" alt="Typing SVG"/>
 </div>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=5CD4F7&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Ahmed+Mamdoh;A+Computer+Science+Student;in+Modern+Academy+Maadi" alt="Typing SVG" /></a></p>
-<div align="center">
-  <h1 align="center">📜 Skills & Tools</h1>
+
+## 🤝 Connect with me
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite,npm,git,github,netlify,vscode" />
+    
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Mamdoh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mamdoh-salem/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmamdoh.cs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmed-mamdoh.is-a.dev/)
+</p>
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,next,tailwind,vite,postman,supabase,npm,git,github,vercel,netlify&perline=8" />
+</p>
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahmed-Mamdoh&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Mamdoh&theme=nord&no-frame=true&row=2&column=4"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/Ahmed-Mamdoh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Mamdoh&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
   </a>
 </p>
-</div>
 
-<div align="center"><h1>🔗 Connect with me</h1>
-<p>
-<a href="https://www.linkedin.com/in/eng-ahmed-mamdoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eng-ahmed-mamdoh" height="44" width="44" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/ahmed_mamdoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_mamdoh" height="66" width="66" /></a>
-      <h3>✉For Contact</h3>
-    <h4>ahmedmamdoh.cs@gmail.com</h4>
-</p></div>
-  
-<div align="center">
-    <h1 align="center">📊 Statistics</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Mamdoh&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl" alt="ahmed-mamdoh" /></p>
-</div>
-  
-<div align="center">
+## 🚀 Featured Projects
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+- **[Game-Changer](https://github.com/Ahmed-Mamdoh/Game-Changer)** — A React-based game discovery web app powered by the IGDB API and GamePower API. Explore popular, upcoming, free, and related games with advanced filters and clean UI.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
