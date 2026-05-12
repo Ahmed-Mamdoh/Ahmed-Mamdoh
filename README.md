@@ -1,6 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed Mamdoh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building modern web interfaces&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ahmed Mamdoh+👋;Frontend Developer;Building modern web interfaces" alt="Typing SVG"/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Mamdoh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20modern%20web%20interfaces&descAlignY=55"
+width="100%"/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I%27m+Ahmed+Mamdoh+%F0%9F%91%8B;Frontend+Developer;Building+modern+web+interfaces"
+alt="Typing SVG"/>
+
 </div>
 
 ## 🤝 Connect with me
